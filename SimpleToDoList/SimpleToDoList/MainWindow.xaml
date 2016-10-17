@@ -7,6 +7,17 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Orientation="Horizontal">
+            <Label Content="New ToDo" VerticalAlignment="Center" Margin="10"></Label>
+            <Button x:Name="button" Content="Button"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1">
+            <DataGrid Margin="10" VerticalAlignment="Center" HorizontalAlignment="Center"></DataGrid>
+        </StackPanel>
+
     </Grid>
 </Window>

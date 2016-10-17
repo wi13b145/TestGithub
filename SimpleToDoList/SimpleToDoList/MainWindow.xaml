@@ -7,16 +7,20 @@
         mc:Ignorable="d"
         Title="SimpleToDoList" Height="333" Width="500">
     <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="7*"/>
+            <ColumnDefinition Width="486*"/>
+        </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition Height="60"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
-        <StackPanel Grid.Row="0" Orientation="Horizontal">
-            <Label Content="New ToDo" VerticalAlignment="Center" Margin="10,0"></Label>
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Grid.ColumnSpan="2" HorizontalAlignment="Center">
+            <Label Content="ToDo" VerticalAlignment="Center" Margin="10,0"></Label>
             <TextBox Width="150" VerticalAlignment="Center" Margin="10,0"></TextBox>
             <Button x:Name="button" Content="Add" VerticalAlignment="Center" HorizontalAlignment="Center" Height="30" Width="55"/>
         </StackPanel>
-        <StackPanel Grid.Row="1">
+        <StackPanel Grid.Row="1" Grid.ColumnSpan="2" Margin="0,0,0.333,0">
             <DataGrid Margin="10" VerticalAlignment="Center" ></DataGrid>
         </StackPanel>
 

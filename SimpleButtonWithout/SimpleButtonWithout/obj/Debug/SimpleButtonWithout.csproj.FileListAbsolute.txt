@@ -1,0 +1,14 @@
+C:\Users\ko9\Source\Repos\TestGithub\SimpleButtonWithout\SimpleButtonWithout\bin\Debug\SimpleButtonWithout.exe.config
+C:\Users\ko9\Source\Repos\TestGithub\SimpleButtonWithout\SimpleButtonWithout\obj\Debug\MainWindow.g.cs
+C:\Users\ko9\Source\Repos\TestGithub\SimpleButtonWithout\SimpleButtonWithout\obj\Debug\App.g.cs
+C:\Users\ko9\Source\Repos\TestGithub\SimpleButtonWithout\SimpleButtonWithout\obj\Debug\SimpleButtonWithout_MarkupCompile.cache
+C:\Users\ko9\Source\Repos\TestGithub\SimpleButtonWithout\SimpleButtonWithout\obj\Debug\SimpleButtonWithout_MarkupCompile.lref
+C:\Users\ko9\Source\Repos\TestGithub\SimpleButtonWithout\SimpleButtonWithout\bin\Debug\SimpleButtonWithout.exe
+C:\Users\ko9\Source\Repos\TestGithub\SimpleButtonWithout\SimpleButtonWithout\bin\Debug\SimpleButtonWithout.pdb
+C:\Users\ko9\Source\Repos\TestGithub\SimpleButtonWithout\SimpleButtonWithout\obj\Debug\MainWindow.baml
+C:\Users\ko9\Source\Repos\TestGithub\SimpleButtonWithout\SimpleButtonWithout\obj\Debug\SimpleButtonWithout.g.resources
+C:\Users\ko9\Source\Repos\TestGithub\SimpleButtonWithout\SimpleButtonWithout\obj\Debug\SimpleButtonWithout.Properties.Resources.resources
+C:\Users\ko9\Source\Repos\TestGithub\SimpleButtonWithout\SimpleButtonWithout\obj\Debug\SimpleButtonWithout.csproj.GenerateResource.Cache
+C:\Users\ko9\Source\Repos\TestGithub\SimpleButtonWithout\SimpleButtonWithout\obj\Debug\SimpleButtonWithout.exe
+C:\Users\ko9\Source\Repos\TestGithub\SimpleButtonWithout\SimpleButtonWithout\obj\Debug\SimpleButtonWithout.pdb
+C:\Users\ko9\Source\Repos\TestGithub\SimpleButtonWithout\SimpleButtonWithout\obj\Debug\GeneratedInternalTypeHelper.g.cs

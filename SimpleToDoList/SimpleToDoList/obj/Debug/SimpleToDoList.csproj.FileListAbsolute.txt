@@ -1,0 +1,14 @@
+C:\Users\ko9\Source\Repos\TestGithub\SimpleToDoList\SimpleToDoList\bin\Debug\SimpleToDoList.exe.config
+C:\Users\ko9\Source\Repos\TestGithub\SimpleToDoList\SimpleToDoList\bin\Debug\SimpleToDoList.exe
+C:\Users\ko9\Source\Repos\TestGithub\SimpleToDoList\SimpleToDoList\bin\Debug\SimpleToDoList.pdb
+C:\Users\ko9\Source\Repos\TestGithub\SimpleToDoList\SimpleToDoList\obj\Debug\MainWindow.g.cs
+C:\Users\ko9\Source\Repos\TestGithub\SimpleToDoList\SimpleToDoList\obj\Debug\App.g.cs
+C:\Users\ko9\Source\Repos\TestGithub\SimpleToDoList\SimpleToDoList\obj\Debug\SimpleToDoList_MarkupCompile.cache
+C:\Users\ko9\Source\Repos\TestGithub\SimpleToDoList\SimpleToDoList\obj\Debug\SimpleToDoList_MarkupCompile.lref
+C:\Users\ko9\Source\Repos\TestGithub\SimpleToDoList\SimpleToDoList\obj\Debug\MainWindow.baml
+C:\Users\ko9\Source\Repos\TestGithub\SimpleToDoList\SimpleToDoList\obj\Debug\SimpleToDoList.g.resources
+C:\Users\ko9\Source\Repos\TestGithub\SimpleToDoList\SimpleToDoList\obj\Debug\SimpleToDoList.Properties.Resources.resources
+C:\Users\ko9\Source\Repos\TestGithub\SimpleToDoList\SimpleToDoList\obj\Debug\SimpleToDoList.csproj.GenerateResource.Cache
+C:\Users\ko9\Source\Repos\TestGithub\SimpleToDoList\SimpleToDoList\obj\Debug\SimpleToDoList.exe
+C:\Users\ko9\Source\Repos\TestGithub\SimpleToDoList\SimpleToDoList\obj\Debug\SimpleToDoList.pdb
+C:\Users\ko9\Source\Repos\TestGithub\SimpleToDoList\SimpleToDoList\obj\Debug\GeneratedInternalTypeHelper.g.cs

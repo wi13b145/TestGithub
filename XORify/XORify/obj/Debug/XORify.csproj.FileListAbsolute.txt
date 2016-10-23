@@ -1,0 +1,14 @@
+C:\Users\ko9\Source\Repos\TestGithub\XORify\XORify\bin\Debug\XORify.exe.config
+C:\Users\ko9\Source\Repos\TestGithub\XORify\XORify\bin\Debug\XORify.exe
+C:\Users\ko9\Source\Repos\TestGithub\XORify\XORify\bin\Debug\XORify.pdb
+C:\Users\ko9\Source\Repos\TestGithub\XORify\XORify\obj\Debug\MainWindow.g.cs
+C:\Users\ko9\Source\Repos\TestGithub\XORify\XORify\obj\Debug\App.g.cs
+C:\Users\ko9\Source\Repos\TestGithub\XORify\XORify\obj\Debug\XORify_MarkupCompile.cache
+C:\Users\ko9\Source\Repos\TestGithub\XORify\XORify\obj\Debug\XORify_MarkupCompile.lref
+C:\Users\ko9\Source\Repos\TestGithub\XORify\XORify\obj\Debug\MainWindow.baml
+C:\Users\ko9\Source\Repos\TestGithub\XORify\XORify\obj\Debug\XORify.g.resources
+C:\Users\ko9\Source\Repos\TestGithub\XORify\XORify\obj\Debug\XORify.Properties.Resources.resources
+C:\Users\ko9\Source\Repos\TestGithub\XORify\XORify\obj\Debug\XORify.csproj.GenerateResource.Cache
+C:\Users\ko9\Source\Repos\TestGithub\XORify\XORify\obj\Debug\XORify.exe
+C:\Users\ko9\Source\Repos\TestGithub\XORify\XORify\obj\Debug\XORify.pdb
+C:\Users\ko9\Source\Repos\TestGithub\XORify\XORify\obj\Debug\GeneratedInternalTypeHelper.g.cs

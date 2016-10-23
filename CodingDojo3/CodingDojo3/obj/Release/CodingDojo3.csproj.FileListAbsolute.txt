@@ -1,0 +1,49 @@
+C:\Users\johannes\Google Drive\FH\SEM3\SystemMaintenance_C#\CodingDojo3\CodingDojo3\CodingDojo3\bin\Release\CodingDojo3.exe.config
+C:\Users\johannes\Google Drive\FH\SEM3\SystemMaintenance_C#\CodingDojo3\CodingDojo3\CodingDojo3\bin\Release\CodingDojo3.exe
+C:\Users\johannes\Google Drive\FH\SEM3\SystemMaintenance_C#\CodingDojo3\CodingDojo3\CodingDojo3\bin\Release\CodingDojo3.pdb
+C:\Users\johannes\Google Drive\FH\SEM3\SystemMaintenance_C#\CodingDojo3\CodingDojo3\CodingDojo3\bin\Release\CodingDojo4DataLib.dll
+C:\Users\johannes\Google Drive\FH\SEM3\SystemMaintenance_C#\CodingDojo3\CodingDojo3\CodingDojo3\bin\Release\CodingDojo4DataLib.pdb
+C:\Users\johannes\Google Drive\FH\SEM3\SystemMaintenance_C#\CodingDojo3\CodingDojo3\CodingDojo3\obj\Release\MainWindow.g.cs
+C:\Users\johannes\Google Drive\FH\SEM3\SystemMaintenance_C#\CodingDojo3\CodingDojo3\CodingDojo3\obj\Release\App.g.cs
+C:\Users\johannes\Google Drive\FH\SEM3\SystemMaintenance_C#\CodingDojo3\CodingDojo3\CodingDojo3\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\johannes\Google Drive\FH\SEM3\SystemMaintenance_C#\CodingDojo3\CodingDojo3\CodingDojo3\obj\Release\CodingDojo3_MarkupCompile.cache
+C:\Users\johannes\Google Drive\FH\SEM3\SystemMaintenance_C#\CodingDojo3\CodingDojo3\CodingDojo3\obj\Release\CodingDojo3_MarkupCompile.lref
+C:\Users\johannes\Google Drive\FH\SEM3\SystemMaintenance_C#\CodingDojo3\CodingDojo3\CodingDojo3\obj\Release\MainWindow.baml
+C:\Users\johannes\Google Drive\FH\SEM3\SystemMaintenance_C#\CodingDojo3\CodingDojo3\CodingDojo3\obj\Release\CodingDojo3.g.resources
+C:\Users\johannes\Google Drive\FH\SEM3\SystemMaintenance_C#\CodingDojo3\CodingDojo3\CodingDojo3\obj\Release\CodingDojo3.Properties.Resources.resources
+C:\Users\johannes\Google Drive\FH\SEM3\SystemMaintenance_C#\CodingDojo3\CodingDojo3\CodingDojo3\obj\Release\CodingDojo3.csproj.GenerateResource.Cache
+C:\Users\johannes\Google Drive\FH\SEM3\SystemMaintenance_C#\CodingDojo3\CodingDojo3\CodingDojo3\obj\Release\CodingDojo3.exe
+C:\Users\johannes\Google Drive\FH\SEM3\SystemMaintenance_C#\CodingDojo3\CodingDojo3\CodingDojo3\obj\Release\CodingDojo3.pdb
+C:\Users\johannes\Google Drive\FH\SEM3\SystemMaintenance_C#\CodingDojo3\CodingDojo3\CodingDojo3\obj\Release\CodingDojo3.csprojResolveAssemblyReference.cache
+C:\Users\ko9\Desktop\CodingDojo3-latest\CodingDojo3\CodingDojo3\bin\Release\CodingDojo3.exe.config
+C:\Users\ko9\Desktop\CodingDojo3-latest\CodingDojo3\CodingDojo3\obj\Release\CodingDojo3.exe
+C:\Users\ko9\Desktop\CodingDojo3-latest\CodingDojo3\CodingDojo3\obj\Release\CodingDojo3.pdb
+C:\Users\ko9\Desktop\CodingDojo3-latest\CodingDojo3\CodingDojo3\bin\Release\CodingDojo3.exe
+C:\Users\ko9\Desktop\CodingDojo3-latest\CodingDojo3\CodingDojo3\bin\Release\CodingDojo3.pdb
+C:\Users\ko9\Desktop\CodingDojo3-latest\CodingDojo3\CodingDojo3\bin\Release\CodingDojo4DataLib.pdb
+C:\Users\ko9\Desktop\CodingDojo3-latest\CodingDojo3\CodingDojo3\obj\Release\CodingDojo3.csprojResolveAssemblyReference.cache
+C:\Users\ko9\Desktop\CodingDojo3-latest\CodingDojo3\CodingDojo3\obj\Release\MainWindow.g.cs
+C:\Users\ko9\Desktop\CodingDojo3-latest\CodingDojo3\CodingDojo3\obj\Release\App.g.cs
+C:\Users\ko9\Desktop\CodingDojo3-latest\CodingDojo3\CodingDojo3\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\ko9\Desktop\CodingDojo3-latest\CodingDojo3\CodingDojo3\obj\Release\CodingDojo3_MarkupCompile.cache
+C:\Users\ko9\Desktop\CodingDojo3-latest\CodingDojo3\CodingDojo3\obj\Release\CodingDojo3_MarkupCompile.lref
+C:\Users\ko9\Desktop\CodingDojo3-latest\CodingDojo3\CodingDojo3\obj\Release\MainWindow.baml
+C:\Users\ko9\Desktop\CodingDojo3-latest\CodingDojo3\CodingDojo3\obj\Release\CodingDojo3.g.resources
+C:\Users\ko9\Desktop\CodingDojo3-latest\CodingDojo3\CodingDojo3\obj\Release\CodingDojo3.Properties.Resources.resources
+C:\Users\ko9\Desktop\CodingDojo3-latest\CodingDojo3\CodingDojo3\obj\Release\CodingDojo3.csproj.GenerateResource.Cache
+C:\Users\ko9\Source\Repos\TestGithub\CodingDojo3\CodingDojo3\bin\Release\CodingDojo3.exe.config
+C:\Users\ko9\Source\Repos\TestGithub\CodingDojo3\CodingDojo3\obj\Release\CodingDojo3.exe
+C:\Users\ko9\Source\Repos\TestGithub\CodingDojo3\CodingDojo3\obj\Release\CodingDojo3.pdb
+C:\Users\ko9\Source\Repos\TestGithub\CodingDojo3\CodingDojo3\bin\Release\CodingDojo3.exe
+C:\Users\ko9\Source\Repos\TestGithub\CodingDojo3\CodingDojo3\bin\Release\CodingDojo3.pdb
+C:\Users\ko9\Source\Repos\TestGithub\CodingDojo3\CodingDojo3\bin\Release\CodingDojo4DataLib.pdb
+C:\Users\ko9\Source\Repos\TestGithub\CodingDojo3\CodingDojo3\obj\Release\CodingDojo3.csprojResolveAssemblyReference.cache
+C:\Users\ko9\Source\Repos\TestGithub\CodingDojo3\CodingDojo3\obj\Release\MainWindow.g.cs
+C:\Users\ko9\Source\Repos\TestGithub\CodingDojo3\CodingDojo3\obj\Release\App.g.cs
+C:\Users\ko9\Source\Repos\TestGithub\CodingDojo3\CodingDojo3\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\ko9\Source\Repos\TestGithub\CodingDojo3\CodingDojo3\obj\Release\CodingDojo3_MarkupCompile.cache
+C:\Users\ko9\Source\Repos\TestGithub\CodingDojo3\CodingDojo3\obj\Release\CodingDojo3_MarkupCompile.lref
+C:\Users\ko9\Source\Repos\TestGithub\CodingDojo3\CodingDojo3\obj\Release\MainWindow.baml
+C:\Users\ko9\Source\Repos\TestGithub\CodingDojo3\CodingDojo3\obj\Release\CodingDojo3.g.resources
+C:\Users\ko9\Source\Repos\TestGithub\CodingDojo3\CodingDojo3\obj\Release\CodingDojo3.Properties.Resources.resources
+C:\Users\ko9\Source\Repos\TestGithub\CodingDojo3\CodingDojo3\obj\Release\CodingDojo3.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+C:\Users\ko9\Source\Repos\TestGithub\CodingDojo3-new\CodingDojo3-new\bin\Debug\CodingDojo3-new.exe.config
+C:\Users\ko9\Source\Repos\TestGithub\CodingDojo3-new\CodingDojo3-new\obj\Debug\CodingDojo3-new.csprojResolveAssemblyReference.cache
+C:\Users\ko9\Source\Repos\TestGithub\CodingDojo3-new\CodingDojo3-new\obj\Debug\MainWindow.g.cs
+C:\Users\ko9\Source\Repos\TestGithub\CodingDojo3-new\CodingDojo3-new\obj\Debug\App.g.cs
+C:\Users\ko9\Source\Repos\TestGithub\CodingDojo3-new\CodingDojo3-new\obj\Debug\CodingDojo3-new_Content.g.cs
+C:\Users\ko9\Source\Repos\TestGithub\CodingDojo3-new\CodingDojo3-new\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ko9\Source\Repos\TestGithub\CodingDojo3-new\CodingDojo3-new\obj\Debug\CodingDojo3-new_MarkupCompile.cache
+C:\Users\ko9\Source\Repos\TestGithub\CodingDojo3-new\CodingDojo3-new\obj\Debug\CodingDojo3-new_MarkupCompile.lref

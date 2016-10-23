@@ -1,1 +1,1 @@
-<b>XORify<b> is a XOR Encoder written in C# as WPF application. To learn MVVM.
+<b>XORify</b> is a XOR Encoder written in C# as WPF application. To learn MVVM.

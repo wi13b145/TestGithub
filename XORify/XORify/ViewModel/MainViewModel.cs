@@ -1,19 +1,20 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace XORify.ViewModel
 {
-    class MainViewModel
+    class MainViewModel : INotifyPropertyChanged
     {
         private string inputTxt;
 
         public string InputTxt
         {
             get { return inputTxt; }
-            set { inputTxt = value; }
+            set { inputTxt = value; OnPropertyChanged("InputTxt"); }
         }
 
         private string keyTxt;
@@ -21,7 +22,7 @@ namespace XORify.ViewModel
         public string KeyTxt
         {
             get { return keyTxt; }
-            set { keyTxt = value; }
+            set { keyTxt = value; OnPropertyChanged("KeyTxt"); }
         }
 
         private string outputTxt;
@@ -29,13 +30,22 @@ namespace XORify.ViewModel
         public string OutputTxt
         {
             get { return outputTxt; }
-            set { outputTxt = value; }
+            set { outputTxt = value; OnPropertyChanged("OutputTxt"); }
         }
 
+        public event PropertyChangedEventHandler PropertyChanged;
+
+        private void OnPropertyChanged(string propertyname)
+        {
+            if (PropertyChanged != null)
+            {
+                PropertyChanged(this, new PropertyChangedEventArgs(propertyname));
+            }
+        }
 
         public MainViewModel()
         {
-           
+            this.OutputTxt = "Hello World!";
         }
 
     }

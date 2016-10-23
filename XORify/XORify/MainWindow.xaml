@@ -18,9 +18,10 @@
             <RowDefinition Height="50*"/>
         </Grid.RowDefinitions>
         <TextBox x:Name="textBoxInput" HorizontalAlignment="Left" Height="82" Margin="10,10,0,0" TextWrapping="Wrap" Text="{Binding InputTxt}" VerticalAlignment="Top" Width="499"/>
-        <TextBox x:Name="textBoxKey" HorizontalAlignment="Left" Height="52" Margin="10,10,0,0" Grid.Row="1" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="499" DataContext="{Binding KeyTxt}"/>
-        <TextBox x:Name="textBoxOutput" HorizontalAlignment="Left" Height="77" Margin="10,10,0,0" Grid.Row="2" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="499" DataContext="{Binding OutputTxt}"/>
+        <TextBox x:Name="textBoxKey" HorizontalAlignment="Left" Height="52" Margin="10,10,0,0" Grid.Row="1" TextWrapping="Wrap" Text="{Binding KeyTxt}" VerticalAlignment="Top" Width="499" />
+        <TextBox x:Name="textBoxOutput" HorizontalAlignment="Left" Height="77" Margin="10,10,0,0" Grid.Row="2" TextWrapping="Wrap" Text="{Binding OutputTxt}" VerticalAlignment="Top" Width="499"/>
         <Button x:Name="button" Content="XORify" HorizontalAlignment="Left" Margin="401,0.333,0,0" Grid.Row="3" VerticalAlignment="Top" Width="75"/>
+
 
 
     </Grid>

@@ -33,6 +33,7 @@ namespace XORify.ViewModel
             set { outputTxt = value; OnPropertyChanged("OutputTxt"); }
         }
 
+
         public event PropertyChangedEventHandler PropertyChanged;
 
         private void OnPropertyChanged(string propertyname)
@@ -45,7 +46,8 @@ namespace XORify.ViewModel
 
         public MainViewModel()
         {
-            this.OutputTxt = "Hello World!";
+            OutputTxt = "Hello World!";
+            
         }
 
     }

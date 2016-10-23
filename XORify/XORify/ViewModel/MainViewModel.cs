@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using XORify.Commands;
 
 namespace XORify.ViewModel
 {
@@ -34,6 +35,9 @@ namespace XORify.ViewModel
         }
 
 
+        public RelayCommand OnButtonClickedCommand { get; set; }
+
+
         public event PropertyChangedEventHandler PropertyChanged;
 
         private void OnPropertyChanged(string propertyname)
@@ -44,11 +48,45 @@ namespace XORify.ViewModel
             }
         }
 
-        public MainViewModel()
+        private bool CanExecuteButton()
         {
-            OutputTxt = "Hello World!";
+            return true;
+        }
+
+        public string EncryptOrDecrypt(string text, string key)
+        {
+            var result = new StringBuilder();
+
+            for (int c = 0; c < text.Length; c++)
+                result.Append((char)((uint)text[c] ^ (uint)key[c % key.Length]));
+
+            return result.ToString();
+        }
+
+        private void DoItOnButtonClick()
+        {
+            // where encoding happens
+            if(InputTxt == null || KeyTxt == null)
+            {
+                OutputTxt = "Error: Input or Key is 0";
+            } else
+            {
+                OutputTxt = EncryptOrDecrypt(InputTxt, KeyTxt);
+            }
             
         }
+
+
+        public MainViewModel()
+        {
+            // OutputTxt = "Hello World!";
+
+            OnButtonClickedCommand = new RelayCommand(
+            new Action(DoItOnButtonClick),
+            new Func<bool>(CanExecuteButton));
+        }
+
+
 
     }
 }

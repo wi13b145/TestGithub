@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SimpleToDoList.Commands;
+using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
@@ -9,7 +10,7 @@ namespace SimpleToDoList.ViewModels
 {
     class MainViewModel
     {
-        private string newTaskDescription;
+        private string newTaskDescription = "";
 
         public string NewTaskDescription
         {
@@ -17,9 +18,19 @@ namespace SimpleToDoList.ViewModels
             set { newTaskDescription = value; }
         }
 
-        private ObservableCollection<String> toDoList = new ObservableCollection<string>();
+        private RelayCommand addButtonClickedCommand;
 
-        public ObservableCollection<String> ToDoList
+        public RelayCommand AddButtonClickedCommand
+        {
+            get { return addButtonClickedCommand; }
+            set { addButtonClickedCommand = value; }
+        }
+
+
+
+        private ObservableCollection<ToDoVM> toDoList = new ObservableCollection<ToDoVM>();
+
+        public ObservableCollection<ToDoVM> ToDoList
         {
             get { return toDoList; }
             set { toDoList = value; }
@@ -27,8 +38,26 @@ namespace SimpleToDoList.ViewModels
 
         public MainViewModel()
         {
-            ToDoList.Add("sdfsdf");
-            ToDoList.Add("sdfsdf");
+            AddButtonClickedCommand = new RelayCommand(new Action(AddButtonClicked), new Func<bool>(CanExecute));
+            LoadData();
+        }
+
+        private bool CanExecute()
+        {
+            //return true;
+            return NewTaskDescription.Length > 0;
+        }
+
+        private void AddButtonClicked()
+        {
+            ToDoList.Add(new ToDoVM(NewTaskDescription, false));
+        }
+
+        private void LoadData()
+        {
+            ToDoList.Add(new ToDoVM("ddd", false));
+            ToDoList.Add(new ToDoVM("dddsd", true));
+
         }
 
     }

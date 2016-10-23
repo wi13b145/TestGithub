@@ -22,10 +22,16 @@
         <StackPanel Grid.Row="0" Orientation="Horizontal" Grid.ColumnSpan="2" HorizontalAlignment="Center">
             <Label Content="ToDo" VerticalAlignment="Center" Margin="10,0"/>
             <TextBox Width="150" Text="{Binding NewTaskDescription}" VerticalAlignment="Center" Margin="10,0"/>
-            <Button x:Name="button" Content="Add" VerticalAlignment="Center" HorizontalAlignment="Center" Height="30" Width="55"/>
+            <Button x:Name="button" Command="{Binding AddButtonClickedCommand}" Content="Add" VerticalAlignment="Center" HorizontalAlignment="Center" Height="30" Width="55"/>
         </StackPanel>
         <StackPanel Grid.Row="1" Grid.ColumnSpan="2" Margin="0,0,0.333,0">
-            <DataGrid Margin="5" VerticalAlignment="Center" ItemsSource="{Binding ToDoList}" />
+            <DataGrid Margin="5" VerticalAlignment="Center" ItemsSource="{Binding ToDoList}" AutoGenerateColumns="False">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Description" Binding="{Binding Description}" ClipboardContentBinding="{x:Null}"/>
+                    <DataGridCheckBoxColumn Header="Done" Binding="{Binding Done}" />
+                </DataGrid.Columns>
+
+            </DataGrid>
         </StackPanel>
 
     </Grid>

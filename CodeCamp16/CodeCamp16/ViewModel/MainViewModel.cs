@@ -1,4 +1,5 @@
 using GalaSoft.MvvmLight;
+using System.Collections.ObjectModel;
 
 namespace CodeCamp16.ViewModel
 {
@@ -16,6 +17,12 @@ namespace CodeCamp16.ViewModel
     /// </summary>
     public class MainViewModel : ViewModelBase
     {
+
+        //private ObservableCollection<TruckLoad> truckLoad; 
+
+        
+        
+        
         /// <summary>
         /// Initializes a new instance of the MainViewModel class.
         /// </summary>
